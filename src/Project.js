@@ -39,7 +39,7 @@ export default function Projects() {
         {
             name: "Shop Easy",
             image: "shopeasy.png",
-            website:"https://cheery-flan-a93fbe.netlify.app/",
+            website:"https://shiny-pegasus-4acbdc.netlify.app/",
             frontend: "https://github.com/kathiresanh/shopeasy-frontend",
             backend: "https://github.com/kathiresanh/shopeasy-backend",
             content: "Shop Easy is the simple online shop here we can buy the products place orders and add to cart options are implemented , also here payment gateway also integrated."
