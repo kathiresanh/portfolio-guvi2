@@ -29,7 +29,7 @@ export default function Contact(){
                          <a className="btn btn-light text-white" href="https://www.linkedin.com/in/kathiresan-h-23b84821a/" target="_blank">  <img src={`./images/linked.png`} height="50px" width="100px"></img></a>
                          </div>
                          <div className="col-sm-3">
-                         <a className=" p-2 btn btn-primary" href="https://drive.google.com/file/d/1_HuaV0viuRSMQSYikRi7TPAS7E6lBXSP/view?usp=sharing" target="_blank"> <h5>View CV</h5></a>
+                         <a className=" p-2 btn btn-primary" href="https://drive.google.com/file/d/1TTaQlCi5cwh6T80ntAjRu9H1a-U7dhzW/view?usp=sharing" target="_blank"> <h5>View CV</h5></a>
                          </div>
                          </div>
 
